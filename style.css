@@ -109,7 +109,7 @@ a{
     grid-template-columns:1fr 1fr;
     align-items:center;
     gap:60px;
-    padding-top: 200px;
+    padding-top: 400px;
     background:
     radial-gradient(
         circle at 80% 50%,
