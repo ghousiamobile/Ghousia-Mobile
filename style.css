@@ -62,7 +62,7 @@ a{
 }
 
 .logo{
-    font-size:19px;
+    font-size:12px;
     font-weight:900;
     letter-spacing:-1px;
     color:var(--yellow);
@@ -104,7 +104,7 @@ a{
     grid-template-columns:1fr 1fr;
     align-items:center;
     gap:60px;
-    padding-top: 400px;
+    padding-top: 350px;
     background:
     radial-gradient(
         circle at 80% 50%,
