@@ -62,16 +62,11 @@ a{
 }
 
 .logo{
-    font-size:16px;
+    font-size:19px;
     font-weight:900;
-    color:#fff;
     letter-spacing:-1px;
-}
-
-.logo span{
     color:var(--yellow);
 }
-
 .nav-links{
     display:flex;
     gap:25px;
