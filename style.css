@@ -622,9 +622,15 @@ footer{
         padding:15px 5%;
     }
 
-    .nav-links{
-        display:none;
-    }
+.nav-links{
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    background: #111;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
 
     .nav-btn{
         padding:9px 12px;
