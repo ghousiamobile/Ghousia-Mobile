@@ -23,12 +23,12 @@ a{
 }
 
 :root{
-    --yellow:#ffffff;
-    --black:#000000;
-    --dark:#ffffff;
-    --card:#ffffff;
-    --border:#e0e0e0;
-    --gray:#777777;
+  --yellow: #000000; /* Pure Black - Pehle Yellow tha */
+  --black: #ffffff;  /* Pure White - Pehle Black tha */
+  --dark: #ffffff;   /* Pure White - Background white */
+  --card: #ffffff;   /* Pure White - Card white */
+  --border: #cccccc; /* Light Gray - Border */
+  --gray: #000000;   /* Pure Black - Text black */
 }
 
 
