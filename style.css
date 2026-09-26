@@ -24,9 +24,9 @@ a{
 
 :root{
   --yellow: #000000; /* Pure Black - Pehle Yellow tha */
-  --black: #ffffff;  /* Pure White - Pehle Black tha */
+  --black: #000000;  /* Pure black - Pehle Black tha */
   --dark: #ffffff;   /* Pure White - Background white */
-  --card: #ffffff;   /* Pure White - Card white */
+  --card: #000000;   /* Pure black - Card white */
   --border: #cccccc; /* Light Gray - Border */
   --gray: #000000;   /* Pure Black - Text black */
 }
