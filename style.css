@@ -23,12 +23,12 @@ a{
 }
 
 :root{
-    --yellow:#ffd21a;
-    --black:#070707;
-    --dark:#101010;
-    --card:#151515;
-    --border:#292929;
-    --gray:#a7a7a7;
+    --yellow:#ffffff;
+    --black:#000000;
+    --dark:#ffffff;
+    --card:#ffffff;
+    --border:#e0e0e0;
+    --gray:#777777;
 }
 
 
